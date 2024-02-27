@@ -83,9 +83,9 @@ Revenue data is not available for Tortuga Agtech. However, an indicator of their
 ### Key Metrics
 
 From a *Precision Agriculture* article titlted "Intelligent robots for fruit harvesting: recent developments and future challenges", published June 2, 2022, the 3 key performance metrics for commercial feasibility are[^13]:
-/*harvest success rate
-/*cycle time
-/*damage rate
+* harvest success rate
+* cycle time
+* damage rate
 
 The startups in this field have not published their results so it is difficult to determine how they measure up to their own metrics.
 
