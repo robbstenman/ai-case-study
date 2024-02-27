@@ -52,11 +52,11 @@ Tortuga Agtech is in the agricultural robotics field and specifically in the sma
 
 There is an article in *Wired* titled "The Elusive Hunt for a Robot That Can Pick a Ripe Strawberry" published on February 16, 2022. The opening paragraph states:
 
->Ten years ago, a company called Agrobot demonstrated a strawberry-harvesting robot in a field in Davis, California. Today, Agrobot’s strawberry picker remains a prototype.
+>Ten years ago, a company called Agrobot demonstrated a strawberry-harvesting robot in a field in Davis, California. Today, Agrobot’s strawberry picker remains a prototype.[^10]
 
 Further down in the article, it says:
 
->A recent study reviewed nearly 50 harvesting robot projects from 2000 to 2020 and found that harvesting robots have yet to see widespread use, in large part because most robots still can’t do a better job than a human.
+>A recent study reviewed nearly 50 harvesting robot projects from 2000 to 2020 and found that harvesting robots have yet to see widespread use, in large part because most robots still can’t do a better job than a human.[^10]
 
 This is about to change with the adoption of AI, more compute power than before, and better cameras and sensors.
 
@@ -68,7 +68,7 @@ Saga Robotics AS https://sagarobotics.com/
 
 Advanced Farm Technologies https://advanced.farm/
 
-Dogtooth https://dogtooth.tech/[^10]
+Dogtooth https://dogtooth.tech/[^11]
 
 Other companies were listed as competitors, but upon further research, they were not direct competitors in the soft fruit picking category.
 
@@ -82,10 +82,10 @@ Revenue data is not available for Tortuga Agtech. However, an indicator of their
 
 ### Key Metrics
 
-From a *Precision Agriculture* article titlted "Intelligent robots for fruit harvesting: recent developments and future challenges", published June 2, 2022, the 3 key performance metrics for commercial feasibility are:
+From a *Precision Agriculture* article titlted "Intelligent robots for fruit harvesting: recent developments and future challenges", published June 2, 2022, the 3 key performance metrics for commercial feasibility are[^13]:
 *harvest success rate
 *cycle time
-*damage rate[^13]
+*damage rate
 
 The startups in this field have not published their results so it is difficult to determine how they measure up to their own metrics.
 
@@ -136,9 +136,9 @@ Identifying and implementing relevant new technologies will be critical in Tortu
 [^9]: Koerhuis, Rene. "These are the 5 finalists for the Ag Robot of the Year 2024." *Future Farming*, January 23, 2024.
 https://www.futurefarming.com/tech-in-focus/field-robots/these-are-the-5-finalists-for-the-ag-robot-of-the-year-2024/ Accessed 2.22.2024.
 
-[^10]: "Tortuga Agtech." *CB Insights* https://www.cbinsights.com/company/tortuga-agricultural-technologies/alternatives-competitors Accessed 2.22.2024.
+[^10]: Johnson, Khari. "The Elusive Hunt for a Robot That Can Pick a Ripe Strawberry." *Wired,* February 16, 2022. https://www.wired.com/story/elusive-hunt-robot-pick-ripe-strawberry/ Accessed 2.22.2024.
 
-[^11]: Peterson, Eric. "How Tortuga AgTech is using automation to help farmers." *Colorado Biz,* July 10, 2020. https://www.cobizmag.com/how-tortuga-agtech-is-using-automation-to-help-farmers/ Accessed 2.21.2024.
+[^11]: "Tortuga Agtech." *CB Insights* https://www.cbinsights.com/company/tortuga-agricultural-technologies/alternatives-competitors Accessed 2.22.2024.
 
 [^12]: Manning, Lauren. "EXCLUSIVE: Harvest automation startup Tortuga raises $20m Series A to build hundreds of robots." *Agfunder News,* April 8, 2021. https://agfundernews.com/tortuga-harvest-automation-startup-tortuga-raises-20m-series-a-to-build-hundreds-of-robots Accessed 2.21.24.
 
