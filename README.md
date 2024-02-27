@@ -62,13 +62,13 @@ This is about to change with the adoption of AI, more compute power than before,
 
 ### Competitors
 
-There appear to be three main startup rivals to Tortuga Agtech. 
+There appear to be three main startup rivals to Tortuga Agtech.[^11] 
 
 Saga Robotics AS https://sagarobotics.com/
 
 Advanced Farm Technologies https://advanced.farm/
 
-Dogtooth https://dogtooth.tech/[^11]
+Dogtooth https://dogtooth.tech/
 
 Other companies were listed as competitors, but upon further research, they were not direct competitors in the soft fruit picking category.
 
@@ -83,9 +83,9 @@ Revenue data is not available for Tortuga Agtech. However, an indicator of their
 ### Key Metrics
 
 From a *Precision Agriculture* article titlted "Intelligent robots for fruit harvesting: recent developments and future challenges", published June 2, 2022, the 3 key performance metrics for commercial feasibility are[^13]:
-*harvest success rate
-*cycle time
-*damage rate
+/*harvest success rate
+/*cycle time
+/*damage rate
 
 The startups in this field have not published their results so it is difficult to determine how they measure up to their own metrics.
 
